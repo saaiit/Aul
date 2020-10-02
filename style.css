@@ -1,3 +1,20 @@
+@media only screen and (min-width: 480px) {
+  nav a {
+    float: left;
+    width: 30%;
+    margin: 0 0 0 5%;
+    padding: 25px 1%;
+    margin-bottom: 0;
+  }
+  nav li:first-child a {
+    margin-left: 0;
+  }
+  nav li:last-child a {
+    margin-right: 0;
+  }
+ 
+}
+
 .body{
 	background-image: url('a/index.png');
 	background-repeat: no-repeat;
@@ -20,7 +37,113 @@
 	margin-left:160px;
 }
 
+/*******************************************************
+Kode desain web responsive
+*******************************************************/
+
+/*******************************************************
+Kode dasar
+*******************************************************/
+
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Helvetica, Helvetica Neue, Arial;
+  font-size: 16px;
+  line-height: 26px;
+}
+
 .wrapper {
-  	width: 1152px;
-  	margin: 0 auto;
+  width: 1152px;
+  margin: 0 auto;
+}
+
+.title {
+    color: white;
+}
+
+.header-container {
+    border-bottom: 20px solid #599a68;
+	background: #6ab47b;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+nav a {
+  display: block;
+  margin-bottom: 10px;
+  padding: 15px 0;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  background: #599a68;
+}
+
+nav a:hover,
+nav a:visited {
+  color: white;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.main-container {
+	padding: 30px;
+	margin: auto;
+}
+
+img {
+	padding: 30px;
+	display: block;
+	margin: auto;
+	
+}
+
+
+/*******************************************************
+Media Query
+*******************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+/*******************************************************
+Clearfix
+*******************************************************/
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
 }
