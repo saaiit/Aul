@@ -14,3 +14,8 @@
 	color: white;
 	font-size: 30px;
 }
+
+.wrapper{
+  	width: 1152px;
+	margin: 0 auto;
+}
