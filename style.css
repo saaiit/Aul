@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -9,17 +9,6 @@
     font-family: 'Arimo', sans-serif;
     
 }
-
-@font-face {
-        font-family: tulisan_keren;
-        src: url(Wolf.ttf);
-p {
-	font-family: 'tulisan_keren';
-	font-size: 70pt;
-	font-variant: inherit;
-}
-
-
 
 html {
     font-size: 10px;
