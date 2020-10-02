@@ -19,3 +19,8 @@
 	text-align: center;
 	margin-left:160px;
 }
+
+.wrapper {
+  	width: 1152px;
+  	margin: 0 auto;
+}
