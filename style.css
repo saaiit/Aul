@@ -27,8 +27,9 @@ section {
     animation: change 10s ease-in-out infinite;
 
 }
-.word-1 {
-    word-spacing: -1px;
+
+.letter-1 {
+    letter-spacing: -1px; 
 }
 
 .textme {
