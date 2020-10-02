@@ -1,0 +1,21 @@
+.body{
+	background-image: url('a/index.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+.a{
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	margin-left:200px;
+}
+
+.aa{
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	margin-left:160px;
+}
