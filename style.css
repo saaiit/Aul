@@ -1,3 +1,4 @@
+
 .body{
 	background-color: #3c76b7;
 	background-size: auto;
@@ -12,32 +13,10 @@
 	margin-top: 50px;
 	text-align: center;
 	color: white;
-	font-size: 70px;
-}
-
-.a{
-	text-decoration: none;
-	color: white;
-	font-size: 24px;
-	text-align: center;
-	margin-left:5px;
-	background-color: #3c76b7;
-	padding: 10px;
-	border-radius: 10px;
-}
-
-.aa{
-	text-decoration: none;
-	color: white;
-	font-size: 24px;
-	text-align: center;
-	margin-left:150px;
-	background-color: #3c76b7;
-	padding: 10px;
-	border-radius: 10px;
+	font-size: 30px;
 }
 .wrapper {
-  width: (1152px / 1280px) x 100 = 90%;
-  margin: 0 auto;
+ 	 width: (1152px / 1280px) x 100 = 90%;
+  	margin: 0 auto;
 }
 
