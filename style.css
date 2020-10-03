@@ -30,6 +30,9 @@ section {
 }
 
 .letter-1 {
+    font-family: 'Arimo', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     font-size: 20px;
     letter-spacing: -1px; 
 }
