@@ -161,6 +161,7 @@ h1:hover {
   .modal-body {
     width:41px;
     height:41px;
+    padding:20px;
     
   }
   .modal-header,
@@ -265,6 +266,7 @@ h1:hover {
   .modal-body2 {
        width:41px;
       height:41px;
+      padding:20px;
     
   }
   .modal-header2,
