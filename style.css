@@ -31,8 +31,6 @@ section {
 
 .letter-1 {
     font-family: 'Arimo', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
     font-size: 20px;
     letter-spacing: -1px; 
 }
@@ -59,7 +57,7 @@ h1:hover {
     color: dodgerblue;
 }
 
-.textme p {
+.textme {
     font-size: 30px;
     text-align: center;
     font-family: 'Cookie', cursive;
