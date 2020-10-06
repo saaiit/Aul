@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -53,7 +54,7 @@ h1:hover {
     color: dodgerblue;
 }
 
-.textme p {
+.textme  {
     font-size: 16px;
     text-align: center;
     font-family: 'Arimo', sans-serif;
@@ -61,6 +62,15 @@ h1:hover {
 
 
 }
+.letter-1  {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    
+
+
+}
+
 
 
 .jancok {
