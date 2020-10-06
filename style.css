@@ -16,6 +16,7 @@
 .anjay {
     font-size: 26px;
     text-align: center;
+    letter-spacing: -1px;
     font-family: 'Kalam', cursive;
 }
 body {
@@ -91,6 +92,7 @@ h1:hover {
     padding: 40px;
     text-align: center;
     font-family: 'Arimo', sans-serif;
+    letter-spacing: -1px;  
   }
   .btn {
     background: #428bca;
@@ -112,6 +114,7 @@ h1:hover {
   }
   .btn.btn-big {
     font-size: 18px;
+    letter-spacing: -1px;  
     padding: 15px 20px;
     min-width: 100px;
     border-radius: 20px;
