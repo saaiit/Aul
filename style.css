@@ -108,6 +108,7 @@ h1:hover {
     padding: 15px 20px;
     min-width: 100px;
     border-radius: 20px;
+    font-family: 'Arimo', sans-serif;  
 
   }
   .btn-close {
