@@ -11,6 +11,11 @@
     
 
 }
+.anjay {
+    font-family: 'Arimo', sans-serif;
+    font-size: 26px;
+    text-align: center;
+}
 body {
     background-color: linear-gradient( #EE7752, #E73C7E, #23A6D5,#23D5AB);
 }
