@@ -1,0 +1,28 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+p {
+	font-size:20px;
+}
+h2{
+color: #000000;
+}
+
+hr { 
+	width: 220px;
+	border-top: 4px solid #000000;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
